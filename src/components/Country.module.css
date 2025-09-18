@@ -1,0 +1,23 @@
+.country{
+    border: 1px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.countryImg{
+   
+    width: 320px;
+    height: 195px;
+}
+
+.span{
+    border: 1px solid white;
+    padding: 5px 8px;
+    border-radius: 12px;
+}
+
+.countryVisited {
+    background-color: aquamarine;
+    color: black;
+}
