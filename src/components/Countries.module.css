@@ -3,3 +3,9 @@
     grid-template-columns: repeat(3, 1fr);
     /* gap: 5px; */
 }
+
+.addFlagImg{
+    width: 100px;
+    height: 70px;
+    margin-left: 10px;
+}
